@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1651302978 source:d:\eng mohamed\nti\final_project\main.c
+	"op.h"
+
+1651308352 source:d:\eng mohamed\nti\final_project\student.c
+	"student.h"
+	"linear.h"
+
+1651312461 d:\eng mohamed\nti\final_project\student.h
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdbool.h>
+	<string.h>
+	"datatype.h"
+
+1651107878 d:\eng mohamed\nti\final_project\datatype.h
+
+1651308184 source:d:\eng mohamed\nti\final_project\linear.c
+	"linear.h"
+
+1651308184 d:\eng mohamed\nti\final_project\linear.h
+	"student.h"
+
+1651300271 source:d:\eng mohamed\nti\final_project\op.c
+	"op.h"
+
+1651120601 d:\eng mohamed\nti\final_project\op.h
+	"student.h"
+
